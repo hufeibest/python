@@ -6,4 +6,8 @@ a = "中文测试"
 # print(a)
 # print(a.encode('utf-8'))
 # print(len(a))
+a = ('da', 'dasd', '12')
+b = ['das', 'fas', 'wqeqw']
+print(a[0])
+print(b)
 print("%s%%" %45)
